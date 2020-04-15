@@ -1,0 +1,8 @@
+#+TITLE: docker-twinkle's todos
+#+AUTHOR: Quentin Burgess (quentin.burgess@frafos.com)
+#+DESCRIPTION: Quick summary of dev task for the twinkle dockerization
+
+* dev
+** DONE fix sig 11
+   CLOSED: [2020-04-15 Wed 17:01]
+   Was missing the qml-modiles-qtquick* (dirty ..)
